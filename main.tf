@@ -13,6 +13,6 @@ provider "aws" {
 
 # Criando um bucket S3
 resource "aws_s3_bucket" "bucket_default" {
-  bucket = "fiapeats-bucket-s3"
+  bucket = "fiapeats-bucket-videos-s3"
 }
 
