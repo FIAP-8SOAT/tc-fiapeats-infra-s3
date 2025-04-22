@@ -5,6 +5,7 @@ Este projeto provisiona um bucket s3 na AWS utilizando Terraform que será utili
 ---
 
 📌 Finalidade
+
 O bucket será usado em um fluxo que permite:
 
 * Armazenar vídeos dos clientes
